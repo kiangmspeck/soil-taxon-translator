@@ -1,7 +1,7 @@
 # soil-taxon-translator
 The purpose of this script is to read a soil taxonomic name at the subgroup level and translate that name into the respective order, suborder, great group, and subgroup.
 
-Soil taxonomic names often sounds like gibberish to anyone outside of the soil science field. This is due to the fact that the formative elements of the taxonomic names are derived from multiple languages or are completely made up. However, fully understanding the name of a soil gives several clues as to its origin and characteristics. Therefore, it is important for anyone with an interest in soils to be able to dissect a soil name and understand its formative elements. Hopefully, this program can assist in such endeavors.
+Soil taxonomic names often sounds like gibberish to anyone outside of the soil science field. This is due to the fact that the formative elements of the taxonomic names are derived from multiple languages or are made up. However, fully understanding the name of a soil gives several clues as to its origin and characteristics. Therefore, it is important for anyone with an interest in soils to be able to dissect a soil name and understand its formative elements. Hopefully, this program can assist in such endeavors.
 
 How to Run: 
 This script was written in Python 3, and therefore requires Python 3 be downloaded on your machine before running. Python can be downloaded at https://www.python.org/downloads/ .
